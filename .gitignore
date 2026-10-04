@@ -1,0 +1,28 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Kotlin generated/cache files
+.kotlin/
+
+# Local machine / Android SDK configuration
+local.properties
+
+# Android generated/native build files
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Signing / private credentials
+*.jks
+*.keystore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+gradle/gradle-daemon-jvm.properties
