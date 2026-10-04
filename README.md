@@ -26,61 +26,35 @@ Unit Calculator provides a simple calculator along with multiple unit converters
 - 📢 AdMob test ads
 
 ---
-
 ## 📸 Screenshots
 
-### Calculator
+<p align="center">
+  <img src="screenshots/1calculator.jpg" width="220">
+  <img src="screenshots/2length.jpg" width="220">
+  <img src="screenshots/3area.jpg" width="220">
+</p>
 
-![Calculator](screenshots/1calculator.jpg)
+<p align="center">
+  <img src="screenshots/4volume.jpg" width="220">
+  <img src="screenshots/5weight.jpg" width="220">
+  <img src="screenshots/6speed.jpg" width="220">
+</p>
 
-### Length
+<p align="center">
+  <img src="screenshots/7temperature.jpg" width="220">
+  <img src="screenshots/8power.jpg" width="220">
+  <img src="screenshots/9energy.jpg" width="220">
+</p>
 
-![Length Converter](screenshots/2length.jpg)
+<p align="center">
+  <img src="screenshots/10frequency.jpg" width="220">
+  <img src="screenshots/11storage.jpg" width="220">
+  <img src="screenshots/12time.jpg" width="220">
+</p>
 
-### Area
-
-![Area Converter](screenshots/3area.jpg)
-
-### Volume
-
-![Volume Converter](screenshots/4volume.jpg)
-
-### Weight
-
-![Weight Converter](screenshots/5weight.jpg)
-
-### Speed
-
-![Speed Converter](screenshots/6speed.jpg)
-
-### Temperature
-
-![Temperature Converter](screenshots/7temperature.jpg)
-
-### Power
-
-![Power Converter](screenshots/8power.jpg)
-
-### Energy
-
-![Energy Converter](screenshots/9energy.jpg)
-
-### Frequency
-
-![Frequency Converter](screenshots/10frequency.jpg)
-
-### Digital Storage
-
-![Digital Storage Converter](screenshots/11storage.jpg)
-
-### Time
-
-![Time Converter](screenshots/12time.jpg)
-
-### About
-
-![About](screenshots/13about.jpg)
-
+<p align="center">
+  <img src="screenshots/13about.jpg" width="220">
+</p>
 ---
 
 ## 🎬 Demo
